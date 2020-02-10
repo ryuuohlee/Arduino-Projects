@@ -1,4 +1,4 @@
-//Project #2 - part3
+//Project #2
 //This project turns an LED on for the duration depending on what the user inputs.
 
 // the setup function runs once when you press reset or power the board

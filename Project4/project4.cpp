@@ -1,4 +1,4 @@
-//ENGR Project 4
+//Project 4
 /*
   This project uses a potentiometer to act as a thermostat and turn 4 LED's on and off
   using analog inputs.

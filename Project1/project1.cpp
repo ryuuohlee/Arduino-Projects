@@ -1,4 +1,4 @@
-//MyBlinkpart3
+//Project 1
 //This project turns an LED on for one second, then off for one second, repeatedly.
 
 // the setup function runs once when you press reset or power the board
