@@ -1,4 +1,3 @@
-//Jeffrey Lee
 //MyBlinkpart3
 //This project turns an LED on for one second, then off for one second, repeatedly.
 
